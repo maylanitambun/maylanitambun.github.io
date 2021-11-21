@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Maylani Tambun
 
 You can use the [editor on GitHub](https://github.com/maylanitambun/maylanitambun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
